@@ -1,0 +1,8 @@
+C:\Users\User\Desktop\dev\2NDYEAR\2nd SEM\appsdev\Conversion\Conversion\bin\Debug\Conversion.exe.config
+C:\Users\User\Desktop\dev\2NDYEAR\2nd SEM\appsdev\Conversion\Conversion\bin\Debug\Conversion.exe
+C:\Users\User\Desktop\dev\2NDYEAR\2nd SEM\appsdev\Conversion\Conversion\bin\Debug\Conversion.pdb
+C:\Users\User\Desktop\dev\2NDYEAR\2nd SEM\appsdev\Conversion\Conversion\obj\Debug\Conversion.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\dev\2NDYEAR\2nd SEM\appsdev\Conversion\Conversion\obj\Debug\Conversion.csproj.SuggestedBindingRedirects.cache
+C:\Users\User\Desktop\dev\2NDYEAR\2nd SEM\appsdev\Conversion\Conversion\obj\Debug\Conversion.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\dev\2NDYEAR\2nd SEM\appsdev\Conversion\Conversion\obj\Debug\Conversion.exe
+C:\Users\User\Desktop\dev\2NDYEAR\2nd SEM\appsdev\Conversion\Conversion\obj\Debug\Conversion.pdb
